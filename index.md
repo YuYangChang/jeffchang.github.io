@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+<html> 
+<head>
+<title>
+    宥揚的網頁
+</title>
+</head>
 
-You can use the [editor on GitHub](https://github.com/YuYangChang/jeffchang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YuYangChang/jeffchang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<body> 
+    <hl>Hello motherfucker!</hl>
+    <hl>今天過得好嗎?2022 NBA Final Champion is born!!!</hl>
+    <p>恭喜勇士總冠軍!!!</p>
+    <a target="_blank" href="https://www.google.com/">連到Google</a>
+    <a target="_blank" href="https://zh.m.wikipedia.org/zh-tw/%E9%87%91%E5%B7%9E%E5%8B%87%E5%A3%AB">查看金洲勇士</a>
+    <p>咖哩首座Fmvp!!</p>
+    <img src="apple.png">
+    <img src="night night.jpeg">
+    <img src="https://static.appledaily.com.tw/prod/2022-06/964FC2459C37D0FD8CA7DBE7E5/5b93db1cd3a6c49ccc9a32d8bb9cb21e_large.jpg">
+</body>
+</html>
